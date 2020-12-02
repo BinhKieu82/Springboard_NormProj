@@ -1,2 +1,4 @@
 *.pptx
 *.pdf
+*_checkpoints
+config.py
